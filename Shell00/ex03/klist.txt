@@ -1,0 +1,6 @@
+Credentials cache: API:0ABDAD49-B6E1-45CF-B8C7-4FD1A566FE46
+        Principal: faozturk@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 22 14:27:52 2021  Nov 23 00:27:52 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
+Nov 22 14:27:53 2021  Nov 23 00:27:52 2021  HTTP/student-storage.42kocaeli.com.tr@42KOCAELI.COM.TR
